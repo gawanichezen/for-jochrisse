@@ -113,7 +113,7 @@ input {
 /*=============== REUSABLE CSS CLASSES ===============*/
 
 .container{
-    max-width: 1500px;
+    max-width: 1450px;
     margin-inline: auto;
     padding-inline: 0.7rem;
 }
@@ -421,4 +421,5 @@ input {
 /* For small devices */
 @media screen and (max-width: 350px) {
 }
+
 
