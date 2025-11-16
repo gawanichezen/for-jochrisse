@@ -113,7 +113,7 @@ input {
 /*=============== REUSABLE CSS CLASSES ===============*/
 
 .container{
-    max-width: 1450px;
+    max-width: 1300px;
     margin-inline: auto;
     padding-inline: 0.7rem;
 }
@@ -321,6 +321,7 @@ input {
 
 
 .section__title {
+    font-size: 3rem;
     text-align: center;   /* center horizontally */
     margin-bottom: 3rem;  /* space below title */
 }
@@ -421,5 +422,6 @@ input {
 /* For small devices */
 @media screen and (max-width: 350px) {
 }
+
 
 
